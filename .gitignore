@@ -1,0 +1,7 @@
+node_modules
+.env
+.snyk
+API-Documentation.yml
+.desktopfolder
+.vscode
+logs
